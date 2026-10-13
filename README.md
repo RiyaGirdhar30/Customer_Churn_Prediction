@@ -53,7 +53,7 @@ Additional chart images generated during exploratory data analysis may also be p
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/RiyaGirdhar30/Customer_Churn_Prediction.git
 cd Customer_Churn_Prediction
 ```
 
